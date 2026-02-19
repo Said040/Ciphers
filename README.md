@@ -1,6 +1,8 @@
 # Ciphers
 UIC Project 1 - Encodes text into a cipher, vice versa, and more
 
+(NOTE: This repository only contains the main cpp file, not the entire project)
+
 In this project, I wrote and coded multiple functions. Some (not all) are listed here:
 
 |Function | Description|
