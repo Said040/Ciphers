@@ -9,3 +9,5 @@ In this project, I wrote and coded multiple functions. Some (not all) are listed
 | string rot  | Converts alphabet character into uppercase, encrypts with given amount  |
 | caesarEncryptCommand | Gets text to Caesar encrypt and amount to rotate, calls previous functions  |
 | clean | Removes all characters that are not letters from the string and uppercases all letters  |
+
+<img src="screenshot.png" width=300px>
